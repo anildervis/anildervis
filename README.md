@@ -8,7 +8,7 @@
 
 <h3 align="left">Streaking!</h3>
 <p align="left">
-<a href="https://www.leetcode.com/anildervis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anildervis" height="30" width="40" /> </a> <a href="https://algoleague.com/profile/anildervis/overview" target="blank"><img align="center" src="./images/algoleague.svg" alt="anildervis" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/anildervis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anildervis" height="30" width="40" /> </a> <a href="https://algoleague.com/profile/anildervis/overview" target="blank"><img align="center" src="./images/algoleague.svg" alt="anildervis" height="30" width="30" /></a>
 </p>
 
 <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anildervis&" alt="anildervis" /></p>
